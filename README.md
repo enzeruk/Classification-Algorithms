@@ -3,9 +3,11 @@
 Description: Implementation of classification algorithms in 2020 for the elective course "Pattern Recognition" for my undergraduate studies in Computer Science and 
 Engineering at University of Ioannina. 
 
-Programming language: Python
-Interpreter: Python 3.6
-Software used: PyCharm 2019.3.5
+**Programming language: Python**
+
+**Interpreter: Python 3.6**
+
+**Software used: PyCharm 2019.3.5**
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
