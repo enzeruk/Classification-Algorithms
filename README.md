@@ -47,6 +47,6 @@ subsets the performance of the method (testing set) will be determined by traini
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-Greek presentation of the assignment at `PR2020_Homework1.pdf` file. 
+Greek presentation of the assignment at `PatternRecognition2020_Homework1.pdf` file. 
 
 ------------------------------------------------------------------------------------------------------------------------------------
