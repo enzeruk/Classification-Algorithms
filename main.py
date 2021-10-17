@@ -1,4 +1,4 @@
-# Pattern Recognition 2020: Assignment 1    |      Kalliri Aggeliki     A.M. 2446 #
+# Pattern Recognition 2020: Assignment 1    |      Kalliri Angeliki     A.M. 2446 #
 # TODO: Change the paths @ lines 10 & 16
 from readDataFile import read_file
 from readXSLFile import read_cv
