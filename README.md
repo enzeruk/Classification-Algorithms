@@ -7,7 +7,7 @@ Engineering at University of Ioannina.
 
 **Interpreter: Python 3.6**
 
-**Software used: PyCharm *(vers2019.3.5)***
+**Software used: PyCharm (vers2019.3.5)**
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
