@@ -1,7 +1,7 @@
 # Data Classification Algorithms 
 
 Description: Implementation of classification algorithms in 2020 for the elective course "Pattern Recognition" for my undergraduate studies in Computer Science and 
-Engineering at University of Ioannina. The two data experiments named `spambase.data` and `credit card clients dataset.xls` are problems of binary classification. 
+Engineering at University of Ioannina. The two data experiments named `spambase.data` ([source](https://archive.ics.uci.edu/ml/machine-learning-databases/spambase/)) and `credit card clients dataset.xls` ([source](https://archive.ics.uci.edu/ml/machine-learning-databases/00350/)) are problems of binary classification. 
 These experiments will be utilized for the needs of this assignment.
 
 **Programming language: Python**
