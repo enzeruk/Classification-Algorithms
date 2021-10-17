@@ -1,4 +1,4 @@
-# Pattern Recognition 2020: Assignment 1    |      Kalliri Aggeliki     A.M. 2446 #
+# Pattern Recognition 2020: Assignment 1    |      Kalliri Angeliki     A.M. 2446 #
 import numpy as np
 from sklearn.metrics import confusion_matrix
 from sklearn.svm import SVC
