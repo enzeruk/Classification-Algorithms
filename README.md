@@ -40,7 +40,13 @@ Each of the above classification methods must be evaluated with the following ev
 			Precision = TP/(TP+FP)
 			Recall = TP/(TP+FN)
 			
-*where: TP: True Positives, TN: True Negatives, FP: False Positives, FN: False Negatives, P: Positives, N: Negatives*
+*where: 
+TP: True Positives
+TN: True Negatives
+FP: False Positives
+FN: False Negatives 
+P: Positives
+N: Negatives*
 
 2) ***10-folds cross validation:*** specifically, the original data will be randomly splited into 10 subsets and for each of these 
 subsets the performance of the method (testing set) will be determined by training the rest 9 subsets (training set) with it.
