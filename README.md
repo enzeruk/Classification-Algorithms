@@ -25,9 +25,11 @@ Gaussian area.
 
 Each of the above classification methods must be evaluated with the following evaluation metrics:
 1)	a)Accuracy
+
 			Accuracy = (TP+TN)/(P+N)
 
 	b) F1 score
+	
 			F1score = 2*(Precision*Recall)/(Precision+Recall)
 
 			Precision = TP/(TP+FP)
