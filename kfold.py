@@ -1,4 +1,4 @@
-# Pattern Recognition 2020: Assignment 1    |      Kalliri Aggeliki     A.M. 2446 #
+# Pattern Recognition 2020: Assignment 1    |      Kalliri Angeliki     A.M. 2446 #
 from numpy import *
 from sklearn.model_selection import KFold
 import numpy as np
