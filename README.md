@@ -1,4 +1,4 @@
-#Data Classification Algorithms 
+# Data Classification Algorithms 
 
 Description: Implementation of classification algorithms in 2020 for the elective course "Pattern Recognition" for my undergraduate studies in Computer Science and 
 Engineering at University of Ioannina. 
