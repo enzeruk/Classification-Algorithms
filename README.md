@@ -41,11 +41,17 @@ Each of the above classification methods must be evaluated with the following ev
 			Recall = TP/(TP+FN)
 			
 *where: 
+
 TP: True Positives
+
 TN: True Negatives
+
 FP: False Positives
+
 FN: False Negatives 
+
 P: Positives
+
 N: Negatives*
 
 2) ***10-folds cross validation:*** specifically, the original data will be randomly splited into 10 subsets and for each of these 
