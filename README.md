@@ -13,18 +13,18 @@ These experiments will be utilized for the needs of this assignment.
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Classification methods that are being implemented:
-1) ***LVQ algorithm*** with the specific variation of dynamically spliting the space od the data into sherical Gaussian areas of the same 
+1) ***LVQ algorithm*** with the specific variation of dynamically spliting the space of the data into spherical Gaussian areas of the same 
 category. The process of the classified decision for a foreign element will be determined by the category of the nearest 
 Gaussian area.
 
-2) ***Nearest Neighbor k-NN algorithm*** using the Euclidean distance (variable *k* must be determined by the user each time)
+2) ***Nearest Neighbor k-NN algorithm*** using the Euclidean distance (variable *k* must be determined by the user each time).
 
 4) ***Neural Network*** with Sigmoid as the activation function consisted of a) 1 hidden layer and different number *K* of neurons and b) 
 2 hidden layers and different number *K1 and K2* neurons per layer.
 
-4) ***Support Vector Machines (SVM)*** using a) linear kernel and b) gaussian kernel
+4) ***Support Vector Machines (SVM)*** using a) linear kernel and b) gaussian kernel.
 
-6) ***Naive Bayes classifier*** with normal distribution for each element  
+6) ***Naive Bayes classifier*** with normal distribution for each element.  
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
